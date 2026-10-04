@@ -1,0 +1,4 @@
+# Dossier de travail de la collecte (caches, extraits de sites web) : reste en local
+scripts/sortie/
+__pycache__/
+.DS_Store

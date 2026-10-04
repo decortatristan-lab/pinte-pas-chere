@@ -1,0 +1,103 @@
+osm_id,nom,adresse,prix_pinte_normal,happy_hours,horaires,source_url,date_source,confiance,note
+node/5959549885,Café Populaire,,3.5,,Mo-Su 15:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,"Type de bière non précisé. La même source annonce une happy hour à 2,50 €, sans horaires."
+,L'Attirail Café,"8 boulevard Saint-Martin, 75010 Paris",3.8,,Mo-Su 15:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,Type de bière non précisé.
+,L'Évidence,"233 rue La Fayette, 75010 Paris",3.5,,"Mo-Fr,Su 10:00-02:00; Sa 10:00-04:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,50 € toute la journée » ; type de bière non précisé.
+,Rockstar Café,"46 boulevard Voltaire, 75011 Paris",3.5,,"Mo-Sa 15:00-02:00; Su 15:00-24:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,incertain,"La source dit « bière à 3,50 € » sans préciser le volume (article sur les pintes à moins de 4 €)."
+node/3276247068,Objectif Lune,,,tous 17:00-22:30 4,Mo-Sa 17:00-02:00,https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,Prix hors happy hour non précisé par la source.
+node/707856537,Tribal Café,,4,tous 18:00-21:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,Source de février 2025.
+node/418076004,Oberkafé,,,tous 16:00-22:00 2.9,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,"Source de février 2025 ; horaires de happy hour concordants avec OpenStreetMap. Prix hors happy hour non précisé."
+,Le Château d'Eau,"67 rue du Château d'Eau, 75010 Paris",3.5,,Mo-Sa 07:00-02:00,https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/,2026-07-28,incertain,"Pinte de Météor (blonde). Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+,O P'tit Paris,"8 cour des Petites Écuries, 75010 Paris",,tous 15:00-20:00 3.5,"Mo-Sa 14:00-01:30; Su 14:00-24:00",https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/,2026-07-28,incertain,"Pinte de Kronenbourg en happy hour. Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+node/2387389298,Le Dude,,,tous 18:00-21:00 3,Mo-Fr 18:00-01:45,https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,Pinte de bière Dude (bière maison). Prix hors happy hour non précisé par la source.
+node/6393493952,Ô Lieu De,,7,,,https://www.olieude.net/menus,2026-10-04,estime,« 8 pressions à partir de 7 € la pinte » (site du bar).
+node/6393493952,Ô Lieu De,,,tous 18:00-20:00 4,,https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,Happy hour à 4 € selon Paris Zigzag.
+node/13295590398,Artifex Lab,,9,,,https://www.artifex-lab.com/carte-artifexlab,2026-10-04,verifie,"Yvonne, blonde sans gluten (Ma Petite Française), 50 cl."
+node/3501719704,Divine,,8,,,https://www.bar-divine.fr/documents/carte-cocktails-divine-colors.pdf,2026-10-04,verifie,"Divine Pils, 50 cl (carte PDF du bar)."
+node/1985540944,Fitzroy,,8.5,lun-ven 17:00-20:00 6,,https://www.fitzroy-paris.com/_files/ugd/731ff6_9d69b45cd5c3423ab48c0a61f6eba690.pdf,2026-10-04,verifie,"Fitzroy Lager, 50 cl (carte PDF du bar)."
+node/13927236001,Jésusparadis,,6.5,,,https://jesusparadis.fr/fr/services,2026-10-04,verifie,"Carlsberg 50 cl (tarif après 20h). Happy hour 17h-20h à 5,50 €, jours non précisés."
+node/5734553421,Karafun Paris,,8,,,https://www.karafunbar.com/fr/paris/menu/,2026-10-04,verifie,"Warsteiner, 50 cl (bar karaoké)."
+node/3054292066,L'Iconique,,5,,,https://www.liconique.com/carte.html,2026-10-04,estime,"Blonde Pils affichée « 3€/5€ » : colonnes sans titre, lues comme demi / pinte."
+node/5934013828,L'Impasse,,6.5,,,http://limpassebar.com/carte,2026-10-04,estime,"Blonde artisanale affichée « 3,5 / 6,5 € » : colonnes sans titre, lues comme demi / pinte."
+node/3501719715,La Galinette Cendrée,,8,,,https://www.lagalinettecendree.fr/_files/ugd/1fedd4_1a46626cb03e48acb08661f11daab6e0.pdf,2026-10-04,estime,"Carte « demi / pinte » à 4,5 / 8 € pour la première pression (a priori la blonde). Happy hour « jusqu'à 20h » : −2 € sur les pintes."
+node/4622033591,Le CamCam Bar,,5,,,https://www.lecamcam-bar.fr/la-carte/,2026-10-04,verifie,"Blonde « La Buchette », 50 cl."
+node/3089653307,Le Comptoir Général,,8,,,https://lecomptoirgeneral.com/wp-content/uploads/2025/06/MENU-BAR-FR.pdf,2026-10-04,verifie,"Licorne blonde, 50 cl (carte bar en ligne, fichier daté de juin 2025)."
+node/6061238486,Les Copains,,7,,,https://lescopainsbar.fr/notre-carte/,2026-10-04,estime,« Bière artisanale 50 cl à la pression » : type de bière non précisé.
+node/10736482405,Léo Bistrot,,7,,,https://leobistrotparis.fr/fr/services,2026-10-04,verifie,"Saint-Omer (blonde), 50 cl."
+node/3688065161,The 46 Bar,,7.5,,,https://the46bar.com/wp-content/uploads/2026/03/the46bar-carte-clients.pdf,2026-10-04,verifie,"Blonde Pils, 50 cl. Happy hour à 5,50 €, horaires non précisés sur la carte."
+node/2893835124,The Green Goose,,7.5,lun-ven 18:00-20:00 5,,http://www.thegreengoose.fr/green-goose-menu,2026-10-04,verifie,"Green Goose Lager (blonde maison), 50 cl. Happy hour hors jours fériés."
+,Le Nouvel Institut,"1 boulevard Saint-Germain, 75005 Paris",,tous 16:00-02:00 3.5,Mo-Su 08:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pinte à 3,5 € entre 16h et 2h ». Prix avant 16h non précisé.
+,My Baar,"152 boulevard du Montparnasse, 75014 Paris",,tous 15:00-22:00 3.5,"Mo-Fr 10:00-02:00; Sa 15:00-02:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,incertain,"Pinte à 3,50 € en happy hour (Le Bonbon) ; horaires de happy hour 15h-22h d'après magazine-paris-berlin.com, qui annonce 3 €."
+,Au Taquet,"19 rue Bleue, 75009 Paris",3.5,lun-sam 16:00-21:00 3,Mo-Sa 16:00-01:30,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pinte à 3 € jusqu'à 21h puis 3,50 € ».
+,Le Péché Mignon (13e),"123 boulevard de l'Hôpital, 75013 Paris",3.9,,Mo-Su 08:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,9 € ».
+,Le Péché Mignon (18e),"50 avenue de Clichy, 75018 Paris",3.9,,Mo-Su 08:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,9 € ».
+,L'Atelier de Suffren,"110 avenue de Suffren, 75015 Paris",5,tous 16:00-20:00 3.9,Mo-Su 08:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,9 € entre 16h et 20h (et à 5 € le reste de la journée) ».
+,Bah Loulou,"40 rue Descartes, 75005 Paris",3.5,,"Mo-Sa 16:00-02:00; Su 17:00-02:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,50 € ».
+,Au Mathurin,"12 avenue Mathurin-Moreau, 75019 Paris",,tous 12:00-02:00 3.5,"Mo-Th 11:00-02:00; Sa 15:00-02:00; Su 16:00-02:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,Happy hour « de 12h à la fermeture » à 3,50 €. Horaires du vendredi non indiqués par la source.
+,Le Nova,"82 avenue de Clichy, 75017 Paris",4,tous 17:00-23:00 3.5,Mo-Sa 08:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,50 € entre 17h et 23h et à 4 € le reste de la journée ».
+,Celina,"77 rue Claude-Bernard, 75005 Paris",,tous 16:00-22:00 3.5,Mo-Su 09:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pinte à 3,50 € entre 16h et 22h ». Prix hors de ce créneau non précisé.
+,Le Gentilly,"97 rue de l'Amiral Mouchez, 75013 Paris",,tous 17:00-02:00 3.5,Mo-Sa 07:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,Happy hour de 17h à 2h avec pintes à 3,50 €. Prix avant 17h non précisé.
+,Le Val-Royal,"93 boulevard de Port-Royal, 75013 Paris",,tous 15:00-02:00 3.8,"Mo-Sa 07:00-02:00; Su 08:00-02:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« La pinte est à 3,80 € entre 15h et 2h ». Prix avant 15h non précisé.
+,Bon Ami,"162 avenue du Maine, 75014 Paris",,tous 15:00-21:00 3.5,"Tu-Su 09:00-02:00; Mo 16:00-02:00",https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,50 € entre 15h et 21h ». Prix hors de ce créneau non précisé.
+,WorkshoW,"173 rue Saint-Martin, 75003 Paris",3.5,,Mo-Su 17:00-02:00,https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/,2026-05-22,estime,« Pintes à 3,50 € ».
+,Le Syphax,"26 rue de Châteaudun, 75009 Paris",,tous 16:00-24:00 4.5,"Mo-Th 10:00-01:30; Fr-Sa 10:00-03:30",https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,Happy hour de 16h à minuit avec une pinte à 4,50 € (des sources plus anciennes annonçaient 3 €).
+,La Cantine de Ménilmontant,"6 rue des Maronites, 75020 Paris",,tous 15:30-19:30 3.5,,https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,« Pinte à 3,50 € » de 15h30 à 19h30. Prix hors happy hour non précisé.
+,Liebe Bar,"46 rue du Faubourg Montmartre, 75009 Paris",,tous 17:00-21:00 4.5,,https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/,2026-05-07,estime,« Pinte à 4,5 euros » en happy hour (17h-21h).
+,2 Bis Café,"2 bis rue des Écoles, 75005 Paris",3,,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,« Pinte à 3 € sans interruption ». Source de février 2025.
+,Bar à Mines,"64 rue de Charenton, 75012 Paris",,tous 17:00-21:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,« Pinte à 3 € entre 17h et 21h ». Source de février 2025.
+,Le Multiplex,"27 rue de la Tour d'Auvergne, 75009 Paris",,tous 19:00-21:00 2.9,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,Happy hour de 19h à 21h avec la pinte à 2,90 €. Source de février 2025.
+,Le Mirbel,"4 rue de Mirbel, 75005 Paris",,tous 15:00-02:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,« La pinte de Kro pointe à 3 € » de 15h à 2h. Source de février 2025.
+,Bodega,"10 rue Descartes, 75005 Paris",,tous 17:00-22:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,« La pinte de bière se négocie à 3 € » de 17h à 22h. Source de février 2025.
+,Le Mélocoton,"12 rue Descartes, 75005 Paris",,tous 17:00-22:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,« La pinte de bière se négocie à 3 € » de 17h à 22h. Source de février 2025.
+,The Hideout Mouffetard,"22 rue du Pot de Fer, 75005 Paris",,tous 16:00-22:00 3,,https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou,2025-02-27,estime,Pinte de Saint-Omer (blonde) à 3 € de 16h à 22h. Source de février 2025.
+,Le Smoke,"29 rue Delambre, 75014 Paris",,lun-ven 14:30-19:30 4 ; sam 15:00-19:30 4,,https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/,2026-07-28,incertain,"Pinte de Kronenbourg à 4 € en happy hour. Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+,Mila,"16 rue des Fossés Saint-Bernard, 75005 Paris",4,,,https://www.sortiraparis.com/hotel-restaurant/bar-cafes/articles/350899-mila-le-bar-bon-plan-avec-cocktails-a-6-5-pintes-a-4-et-dj-set-au-coeur-de-paris,2026-09-16,estime,« Comptez 4 € pour une pinte de blonde ».
+node/1877310786,All Good Things,,6,,,https://www.allgoodthingsparis.com/,2026-10-04,verifie,"Pinte de blonde 6 € ; 4,50 € en happy hour (horaires non précisés sur le site)."
+node/6489116629,Au Clair de Lune,,6,tous 18:00-22:00 5,,https://clairdeluneparis.fr/fr/services,2026-10-04,verifie,"Bière blonde pression en 46 cl (pas 50 cl). Happy hour 18h-22h, jours non précisés."
+node/691436463,aveK,,7.5,dim-mer 18:00-02:00 5 ; jeu-sam 18:00-21:00 5,,https://www.avekbar.com/,2026-10-04,verifie,"Pinte blonde (Capitale) 50 cl."
+node/7462119769,Aux Ours,,5,tous 17:00-21:00 4,,https://auxours.fr/fr/services,2026-10-04,estime,"Pinte de Pelforth (la carte ne précise pas blonde ou brune). Happy hour 17h-21h, jours non précisés."
+node/9569615478,Aux Émotions,,9,mar-sam 17:00-21:00 5,,https://www.auxemotions.com/,2026-10-04,verifie,"Pression « l'Alsacienne » 50 cl. Le site annonce aussi une happy hour jusqu'à 23h du mardi au jeudi."
+node/11224787953,Bistro 79,,5,,,https://bistro-79.com/fr/services,2026-10-04,verifie,"Stella Artois, 50 cl."
+node/3351638375,Brasserie des Arts,,9,,,https://www.brasserie-des-arts.com/carte-cocktails-vins,2026-10-04,verifie,"Peroni blonde, 50 cl."
+node/3109253378,Café d'Orléans,,9,tous 17:00-22:00 6,,https://cafe-dorleans.fr/exportPdf/CAFE_ORLEANS_DEPLIANT_BAT3-2025.pdf,2026-10-04,verifie,"Kanterbräu 50 cl ; happy hour tous les jours 17h-22h à 6 € (site du bar)."
+node/6484260243,Chez Plumeau,,9.75,,,https://restaurant-chez-plumeau.fr/fr/services,2026-10-04,verifie,"Triomphe blonde, 50 cl."
+node/14209788702,Chez Maman,,6.1,,,https://chezmamanparis.fr/fr/services,2026-10-04,verifie,"Paris Blonde 50 cl. La carte indique « H.H 3 € » sans préciser le format ni les horaires."
+node/2685481427,Creed,,8,,,https://creed.paris/creed.pdf,2026-10-04,verifie,"La Capitale blonde, 50 cl."
+node/3419505501,Ernest,,,tous 16:00-01:00 3.5,,https://www.brasserie-ernest.com/,2026-10-04,verifie,"« Tous les jours de 16h à 1h la pinte (50cl) de bière blonde artisanale Les Parigots est à 3.5€ » (site du bar). Prix hors after work non précisé."
+way/1415650351,Fluctuart,,9,,,https://fluctuart.fr/wp-content/uploads/2026/05/CARTE-A4_FLUCTUART-vf.pdf,2026-10-04,verifie,"East Paris Lager (Paname Brewing), 50 cl."
+node/2549246541,Galway Irish Pub,,7,,,https://galwayirishpub.fr/,2026-10-04,estime,"« House Beer » 50 cl à 7 € (type non précisé) ; Carlsberg 50 cl à 9 €."
+node/3176500820,Gladines Les Halles,,6,,,https://chezgladines-leshalles.fr/fr/services,2026-10-04,verifie,"Saint-Omer, 50 cl."
+node/5159809821,Gush!,,6,,,https://gush-bar.com/,2026-10-04,estime,« Bières artisanales à partir de 6 € la pinte » : type non précisé.
+node/2081291845,L'Adada,,5.5,,,https://www.adada-bar.com/la-carte/,2026-10-04,verifie,"Blonde « La Buchette », 50 cl. 4 € en happy hour (horaires non précisés sur la carte)."
+node/705657876,L'Art Brut Bistrot,,5.5,,,http://www.artbrutbistrot.fr,2026-10-04,estime,« Pintes à partir de 5,50 € » : type non précisé.
+node/4463902293,L'Âge d'Or,,7,tous 16:00-20:00 5,,https://lagedorparis.com/boire/,2026-10-04,verifie,"Blonde Pils de l'Âge d'Or (Primus), 50 cl."
+node/2940013085,La Cantine de Belleville,,,tous 16:00-21:00 4,,https://lacantinebelleville.fr/fr/services,2026-10-04,verifie,"« Happy hour de 16h à 21h : pinte de blonde 4 € ». Prix hors happy hour de la blonde la moins chère non lisible sur la carte."
+node/12958809795,La Bougeotte,,7,,,https://peniche-labougeotte.com/wp-content/uploads/2026/04/Carte-a-Manger-Vins-au-verre-et-Autres-Boissons.pdf,2026-10-04,verifie,"Blonde Brasserie La Bouledogue, 50 cl (péniche)."
+node/7995193684,La Birreria,,8,,,https://www.labirreria.fr/menu,2026-10-04,verifie,"Poretti, 50 cl. La carte indique « HH 5 € » sans préciser le format."
+node/6001075065,La Jaja,,7.5,,,https://lajaja.fr/menu/,2026-10-04,verifie,"Pilsner, pinte."
+node/1927627184,La Cave Café,,5,,,https://lacavecafe.wixsite.com/lacavecafe/menu,2026-10-04,verifie,"Primus blonde export, pinte."
+node/1951465699,La Chope,,5,,,https://www.lachopedu20eme.com/menus?location=La+Chope&menu=bi%25C3%25A8res--vins,2026-10-04,verifie,"Blonde Les Parigots, pinte 50 cl."
+node/6148498019,La Mutinerie,,6.5,tous 17:00-20:00 4,,https://www.lamutinerie.eu/la-carte,2026-10-04,verifie,"Blonde Savernoise, pinte. Happy hour 17h-20h (jours non précisés)."
+node/251699774,Le 10,,6.8,,,https://le10bar.com/carte/,2026-10-04,verifie,"Bière blonde du 10, 50 cl ; 5,50 € en happy hour (horaires non précisés sur la carte)."
+node/10677649346,Le Barbiche La Réplique,,7,,,https://www.lebarbiche.fr/_files/ugd/84f452_377b71d9ceb44dbd8553e8fa1b7fcd36.pdf,2026-10-04,verifie,"Pilsner blonde, pinte."
+node/6070665686,Le Barbiche,,7,,,https://www.lebarbiche.fr/_files/ugd/84f452_377b71d9ceb44dbd8553e8fa1b7fcd36.pdf,2026-10-04,verifie,"Pilsner blonde, pinte."
+way/54740915,Le Biscornu,,,tous 17:00-21:00 4.5,,http://www.lebiscornu.fr/notre-carte.html,2026-10-04,estime,"Happy hour tous les jours 17h-21h : Pelforth 50 cl à 4,50 € (blonde ou brune non précisé), Heineken 50 cl à 5 €."
+way/626367769,Le Choubichou Châtelet,,6,tous 16:00-02:00 5,,https://www.choubichou.fr/_files/ugd/7e285b_d8613bf7629b4698bef0c7c9a4d5cead.pdf,2026-10-04,verifie,"Blonde Bellevilloise en pinte de 46 cl (pas 50 cl). +2 € après 2h."
+node/5602730924,Le Carlie,,6.5,tous 16:00-23:00 5.5,,https://www.lecarlie.fr/menus?location=Le+Carlie&menu=bi%25C3%25A8res,2026-10-04,estime,Blonde pression ; le volume servi n'est pas précisé sur la carte.
+node/14022643379,Le Gob,,6.5,,,https://legob.fr/la-carte/,2026-10-04,verifie,"Bière du Gob (pression maison), pinte. 5,50 € en happy hour (horaires non précisés sur la carte)."
+node/534909894,Le Maximilien,,6.5,tous 16:00-23:00 4,,https://lemaximilien.fr/fr/services,2026-10-04,verifie,"Stella Artois 50 cl ; happy hour 16h-23h : pinte de Stella à 4 €."
+node/6912695772,Les Grands Gamins,,8,,,https://www.lesgrandsgaminsparis.fr/carte,2026-10-04,verifie,"Lager bio, pinte."
+way/1312436612,Le Son de la Terre,,9,,,https://www.sondelaterre.fr/food-drinks/,2026-10-04,verifie,"Blonde East Paris (Paname), 50 cl."
+way/910134917,Les Maquereaux,,10,,,https://www.lesmaquereaux.com/les-maquereaux/menu,2026-10-04,verifie,"Peroni, 50 cl."
+node/1486314083,Les Pipelettes du Boulevard,,8,tous 16:00-24:00 6,,https://lespipelettesduboulevard.fr/doc/menu-jour.pdf,2026-10-04,verifie,"Kanterbräu blonde en pinte de 47 cl (pas 50 cl)."
+node/2244578060,N'Importe Quoi,,,tous 18:00-20:00 5.5,,https://www.nimportequoi.fr/,2026-10-04,estime,"Happy hour tous les jours 18h-20h : « pintes 5,5 € et 6 € » (type non précisé). Prix hors happy hour non précisé."
+node/11068743914,Monsieur Le Zinc Pigalle,,6.5,tous 06:00-20:00 4.5,,https://www.monsieur-lezinc.com/_files/ugd/f246ba_df1418310fff46ef995fcbf7a07b0111.pdf,2026-10-04,estime,"Pinte de bière « Monsieur » (bière maison, type non précisé) ; happy hour « jusqu'à 20h »."
+node/9988531641,No Scrum No Win,,8,mar-ven 17:00-21:00 6.5,,https://clubhousensnw.com/carte/,2026-10-04,estime,"« After Ruck », bière maison 4,7 % (type non précisé), 50 cl."
+node/1483017732,Quartier Lorette,,7,tous 17:00-20:30 6.5,,https://www.quartierlorette.com/menus-carte/,2026-10-04,estime,"Klosterbräu 50 cl à 7 € (type non précisé) ; Dulion blonde bio 50 cl à 7,50 €, 6,50 € en happy hour."
+way/618752756,Rosa Bonheur sur Seine,,9,,,https://rosabonheur.fr/wp-content/uploads/2024/06/BARGE-ET-TERRASSE-2026.pdf,2026-10-04,verifie,"Lager Saint-Omer, pinte 50 cl."
+node/10824060500,Rosa Bonheur à l'Est,,8.5,,,https://rosabonheur.fr/wp-content/uploads/2024/06/MENU-RBPJ-AVRIL-2026.pdf,2026-10-04,verifie,"Saint-Omer, pinte 50 cl."
+node/6188270336,Solera,,8,,,https://soleraparis.wixsite.com/solera/menus,2026-10-04,estime,"Goudale pression, pinte 50 cl (blonde de garde, pas une pils : seule bière pression de la carte)."
+node/5098215159,The Copper Pub,,7.5,,,https://thecopperpub.com/menu/,2026-10-04,verifie,"Copper Beer blonde, 50 cl ; 6 € en happy hour « tous les jours » (horaires non précisés)."
+node/4820458124,The Irishman,,5.5,,,https://irishman.paris/,2026-10-04,verifie,"Irish Gold (bière maison, lager légère), pinte."
+node/13714513708,The Kop Bar,,5.5,tous 16:00-21:00 4.5,,https://kopbarparis.com/bieres-kop-bar.html,2026-10-04,verifie,"Blonde lager maison, 50 cl ; happy hour 16h-21h : −1 € sur les 50 cl."
+node/9937387117,The Pub,,6.5,,,https://www.thepubparis.com/menu,2026-10-04,verifie,"Pub Blonde 5 %, 50 cl."
+node/8243533268,The Labo,,,mar 15:00-03:00 4.8,,https://thelabo.fr,2026-10-04,estime,"« Happy non stop » : bière pression 50 cl à 4,80 € de 15h à 3h, annoncé les mardis. Prix hors de cette soirée non précisé."

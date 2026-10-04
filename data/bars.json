@@ -1,0 +1,3946 @@
+{
+ "meta": {
+  "fictif": false,
+  "genere_le": "2026-10-04",
+  "perimetre": "Paris",
+  "bars_osm_dans_le_perimetre": 2038,
+  "description": "Prix relevés dans des sources publiques (sites des bars, presse) ; voir source_url de chaque bar."
+ },
+ "bars": [
+  {
+   "id": "src-2-bis-cafe",
+   "nom": "2 Bis Café",
+   "adresse": "2B Rue des Écoles, 75005 Paris",
+   "lat": 48.847719,
+   "lng": 2.352248,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 3.0,
+   "happy_hours": [],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "« Pinte à 3 € sans interruption ». Source de février 2025."
+  },
+  {
+   "id": "osm-node-1877310786",
+   "nom": "All Good Things",
+   "adresse": "60 Rue Custine, 75018 Paris",
+   "lat": 48.889752,
+   "lng": 2.343446,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "08:30",
+     "fin": "15:30"
+    },
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:30",
+     "fin": "23:30"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "09:30",
+     "fin": "23:30"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "09:30",
+     "fin": "18:00"
+    }
+   ],
+   "prix_pinte_normal": 6.0,
+   "happy_hours": [],
+   "source_url": "https://www.allgoodthingsparis.com/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pinte de blonde 6 € ; 4,50 € en happy hour (horaires non précisés sur le site)."
+  },
+  {
+   "id": "osm-node-13295590398",
+   "nom": "Artifex Lab",
+   "adresse": "1 Rue Maillard, 75011 Paris",
+   "lat": 48.858062,
+   "lng": 2.385273,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [],
+   "source_url": "https://www.artifex-lab.com/carte-artifexlab",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Yvonne, blonde sans gluten (Ma Petite Française), 50 cl."
+  },
+  {
+   "id": "osm-node-6489116629",
+   "nom": "Au Clair de Lune",
+   "adresse": "1 Rue Ramey, 75018 Paris",
+   "lat": 48.886969,
+   "lng": 2.347455,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "22:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "https://clairdeluneparis.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Bière blonde pression en 46 cl (pas 50 cl). Happy hour 18h-22h, jours non précisés."
+  },
+  {
+   "id": "src-au-mathurin",
+   "nom": "Au Mathurin",
+   "adresse": "12 Avenue Mathurin Moreau, 75019 Paris",
+   "lat": 48.878076,
+   "lng": 2.372148,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "11:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "02:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "Happy hour « de 12h à la fermeture » à 3"
+  },
+  {
+   "id": "osm-node-2500457603",
+   "nom": "Au Taquet",
+   "adresse": "19 rue Bleue, 75009 Paris",
+   "lat": 48.875837,
+   "lng": 2.345927,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "16:00",
+     "fin": "01:30"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "16:00",
+     "fin": "21:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pinte à 3 € jusqu'à 21h puis 3"
+  },
+  {
+   "id": "osm-node-7462119769",
+   "nom": "Aux Ours",
+   "adresse": "236 Rue des Pyrénées, 75020 Paris",
+   "lat": 48.867553,
+   "lng": 2.396601,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://auxours.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Pinte de Pelforth (la carte ne précise pas blonde ou brune). Happy hour 17h-21h, jours non précisés."
+  },
+  {
+   "id": "osm-node-9569615478",
+   "nom": "Aux Émotions",
+   "adresse": "1 Rue Dante, 75005 Paris",
+   "lat": 48.851295,
+   "lng": 2.347076,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "mer",
+      "jeu"
+     ],
+     "debut": "00:00",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "16:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "https://www.auxemotions.com/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pression « l'Alsacienne » 50 cl. Le site annonce aussi une happy hour jusqu'à 23h du mardi au jeudi."
+  },
+  {
+   "id": "osm-node-691436463",
+   "nom": "aveK",
+   "adresse": "21 Rue Saint-Sauveur, Paris",
+   "lat": 48.86593,
+   "lng": 2.348893,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "dim",
+      "lun",
+      "mar",
+      "mer"
+     ],
+     "debut": "18:00",
+     "fin": "02:00",
+     "prix": 5.0
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "21:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "https://www.avekbar.com/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pinte blonde (Capitale) 50 cl."
+  },
+  {
+   "id": "osm-node-2355778352",
+   "nom": "Bah Loulou",
+   "adresse": "40 rue Descartes, 75005 Paris",
+   "lat": 48.845689,
+   "lng": 2.349069,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "osm-node-428044663",
+   "nom": "Bar à Mines",
+   "adresse": "64 rue de Charenton, 75012 Paris",
+   "lat": 48.849435,
+   "lng": 2.374382,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "« Pinte à 3 € entre 17h et 21h ». Source de février 2025."
+  },
+  {
+   "id": "osm-node-11224787953",
+   "nom": "Bistro 79",
+   "adresse": "79 Rue Olivier de Serres, 75015 Paris",
+   "lat": 48.832884,
+   "lng": 2.29427,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "06:30",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [],
+   "source_url": "https://bistro-79.com/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Stella Artois, 50 cl."
+  },
+  {
+   "id": "osm-node-6411578500",
+   "nom": "Bodega",
+   "adresse": "10 rue Descartes, 75005 Paris",
+   "lat": 48.847058,
+   "lng": 2.348718,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "22:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "« La pinte de bière se négocie à 3 € » de 17h à 22h. Source de février 2025."
+  },
+  {
+   "id": "osm-node-7496768686",
+   "nom": "Bon Ami",
+   "adresse": "162 avenue du Maine, 75014 Paris",
+   "lat": 48.833372,
+   "lng": 2.324331,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "09:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "21:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "osm-node-3351638375",
+   "nom": "Brasserie des Arts",
+   "adresse": "28 Rue Saint-André des Arts, 75006 Paris",
+   "lat": 48.853354,
+   "lng": 2.342424,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "10:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [],
+   "source_url": "https://www.brasserie-des-arts.com/carte-cocktails-vins",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Peroni blonde, 50 cl."
+  },
+  {
+   "id": "osm-node-3109253378",
+   "nom": "Café d'Orléans",
+   "adresse": "43 Avenue du Général Leclerc, 75014 Paris",
+   "lat": 48.830137,
+   "lng": 2.329148,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "11:00",
+     "fin": "01:00"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "22:00",
+     "prix": 6.0
+    }
+   ],
+   "source_url": "https://cafe-dorleans.fr/exportPdf/CAFE_ORLEANS_DEPLIANT_BAT3-2025.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Kanterbräu 50 cl ; happy hour tous les jours 17h-22h à 6 € (site du bar)."
+  },
+  {
+   "id": "osm-node-5959549885",
+   "nom": "Café Populaire",
+   "adresse": "102 Rue Saint-Maur, 75011 Paris",
+   "lat": 48.86604,
+   "lng": 2.377248,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "Type de bière non précisé. La même source annonce une happy hour à 2,50 €, sans horaires."
+  },
+  {
+   "id": "src-celina",
+   "nom": "Celina",
+   "adresse": "77 Rue Claude Bernard, 75005 Paris",
+   "lat": 48.841158,
+   "lng": 2.343526,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "09:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "22:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pinte à 3"
+  },
+  {
+   "id": "osm-node-14209788702",
+   "nom": "Chez Maman",
+   "adresse": "34 Avenue de Laumière, 75019 Paris",
+   "lat": 48.885041,
+   "lng": 2.379701,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "07:00",
+     "fin": "00:00"
+    }
+   ],
+   "prix_pinte_normal": 6.1,
+   "happy_hours": [],
+   "source_url": "https://chezmamanparis.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Paris Blonde 50 cl. La carte indique « H.H 3 € » sans préciser le format ni les horaires."
+  },
+  {
+   "id": "osm-node-6484260243",
+   "nom": "Chez Plumeau",
+   "adresse": "4 Place du Calvaire, 75018 Paris",
+   "lat": 48.886328,
+   "lng": 2.340302,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 9.75,
+   "happy_hours": [],
+   "source_url": "https://restaurant-chez-plumeau.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Triomphe blonde, 50 cl."
+  },
+  {
+   "id": "osm-node-2685481427",
+   "nom": "Creed",
+   "adresse": "22 Rue des Lombards, 75004 Paris",
+   "lat": 48.859372,
+   "lng": 2.349376,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://creed.paris/creed.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "La Capitale blonde, 50 cl."
+  },
+  {
+   "id": "osm-node-3501719704",
+   "nom": "Divine",
+   "adresse": "61 Rue d'Hauteville, 75010 Paris",
+   "lat": 48.875267,
+   "lng": 2.350805,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://www.bar-divine.fr/documents/carte-cocktails-divine-colors.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Divine Pils, 50 cl (carte PDF du bar)."
+  },
+  {
+   "id": "osm-node-3419505501",
+   "nom": "Ernest",
+   "adresse": "35 Rue du Commandant René Mouchotte, 75014 Paris",
+   "lat": 48.837681,
+   "lng": 2.319349,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "01:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.brasserie-ernest.com/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "« Tous les jours de 16h à 1h la pinte (50cl) de bière blonde artisanale Les Parigots est à 3.5€ » (site du bar). Prix hors after work non précisé."
+  },
+  {
+   "id": "osm-node-1985540944",
+   "nom": "Fitzroy",
+   "adresse": "49 Rue du Faubourg Saint-Antoine, 75011 Paris",
+   "lat": 48.852271,
+   "lng": 2.372886,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "04:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "04:00"
+    }
+   ],
+   "prix_pinte_normal": 8.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "20:00",
+     "prix": 6.0
+    }
+   ],
+   "source_url": "https://www.fitzroy-paris.com/_files/ugd/731ff6_9d69b45cd5c3423ab48c0a61f6eba690.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Fitzroy Lager, 50 cl (carte PDF du bar)."
+  },
+  {
+   "id": "osm-way-1415650351",
+   "nom": "Fluctuart",
+   "adresse": "2 Port du Gros Caillou, Paris",
+   "lat": 48.863123,
+   "lng": 2.309919,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [],
+   "source_url": "https://fluctuart.fr/wp-content/uploads/2026/05/CARTE-A4_FLUCTUART-vf.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "East Paris Lager (Paname Brewing), 50 cl."
+  },
+  {
+   "id": "osm-node-2549246541",
+   "nom": "Galway Irish Pub",
+   "adresse": "13 Quai des Grands Augustins, 75006 Paris",
+   "lat": 48.85394,
+   "lng": 2.343583,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://galwayirishpub.fr/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« House Beer » 50 cl à 7 € (type non précisé) ; Carlsberg 50 cl à 9 €."
+  },
+  {
+   "id": "osm-node-3176500820",
+   "nom": "Gladines Les Halles",
+   "adresse": "11 bis Rue des Halles, 75001 Paris",
+   "lat": 48.859916,
+   "lng": 2.346386,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun"
+     ],
+     "debut": "12:00",
+     "fin": "23:30"
+    },
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "12:00",
+     "fin": "23:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "11:30",
+     "fin": "16:00"
+    }
+   ],
+   "prix_pinte_normal": 6.0,
+   "happy_hours": [],
+   "source_url": "https://chezgladines-leshalles.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Saint-Omer, 50 cl."
+  },
+  {
+   "id": "osm-node-5159809821",
+   "nom": "Gush!",
+   "adresse": "288 Rue des Pyrénées, 75020 Paris",
+   "lat": 48.870787,
+   "lng": 2.393677,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "01:30"
+    }
+   ],
+   "prix_pinte_normal": 6.0,
+   "happy_hours": [],
+   "source_url": "https://gush-bar.com/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« Bières artisanales à partir de 6 € la pinte » : type non précisé."
+  },
+  {
+   "id": "osm-node-13927236001",
+   "nom": "Jésusparadis",
+   "adresse": "4 Passage du Marché, 75010 Paris",
+   "lat": 48.870998,
+   "lng": 2.357652,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "00:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [],
+   "source_url": "https://jesusparadis.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Carlsberg 50 cl (tarif après 20h). Happy hour 17h-20h à 5,50 €, jours non précisés."
+  },
+  {
+   "id": "osm-node-5734553421",
+   "nom": "Karafun Paris",
+   "adresse": "3 Impasse Bonne Nouvelle, 75010 Paris",
+   "lat": 48.870702,
+   "lng": 2.350529,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://www.karafunbar.com/fr/paris/menu/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Warsteiner, 50 cl (bar karaoké)."
+  },
+  {
+   "id": "osm-node-2081291845",
+   "nom": "L'Adada",
+   "adresse": "15 Rue du Maine, 75014 Paris",
+   "lat": 48.840557,
+   "lng": 2.322405,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 5.5,
+   "happy_hours": [],
+   "source_url": "https://www.adada-bar.com/la-carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde « La Buchette », 50 cl. 4 € en happy hour (horaires non précisés sur la carte)."
+  },
+  {
+   "id": "osm-node-705657876",
+   "nom": "L'Art Brut Bistrot",
+   "adresse": "78 Rue Quincampoix, Paris",
+   "lat": 48.862188,
+   "lng": 2.351148,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.5,
+   "happy_hours": [],
+   "source_url": "http://www.artbrutbistrot.fr",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« Pintes à partir de 5"
+  },
+  {
+   "id": "osm-node-5000127522",
+   "nom": "L'Atelier de Suffren",
+   "adresse": "110 avenue de Suffren, 75015 Paris",
+   "lat": 48.849141,
+   "lng": 2.303769,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "20:00",
+     "prix": 3.9
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "src-l-attirail-cafe",
+   "nom": "L'Attirail Café",
+   "adresse": "8 Boulevard Saint-Martin, 75010 Paris",
+   "lat": 48.868793,
+   "lng": 2.357867,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.8,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "Type de bière non précisé."
+  },
+  {
+   "id": "osm-node-3054292066",
+   "nom": "L'Iconique",
+   "adresse": "20 Rue Jean et Marie Moinon, 75010 Paris",
+   "lat": 48.874184,
+   "lng": 2.371604,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "17:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [],
+   "source_url": "https://www.liconique.com/carte.html",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Blonde Pils affichée « 3€/5€ » : colonnes sans titre, lues comme demi / pinte."
+  },
+  {
+   "id": "osm-node-5934013828",
+   "nom": "L'Impasse",
+   "adresse": "4 Cité Griset, 75011 Paris",
+   "lat": 48.866468,
+   "lng": 2.379199,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [],
+   "source_url": "http://limpassebar.com/carte",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Blonde artisanale affichée « 3,5 / 6,5 € » : colonnes sans titre, lues comme demi / pinte."
+  },
+  {
+   "id": "osm-node-4463902293",
+   "nom": "L'Âge d'Or",
+   "adresse": "26 Rue du Docteur Magnan, 75013 Paris",
+   "lat": 48.826507,
+   "lng": 2.359964,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "09:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "09:00",
+     "fin": "00:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "20:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "https://lagedorparis.com/boire/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Pils de l'Âge d'Or (Primus), 50 cl."
+  },
+  {
+   "id": "src-l-evidence",
+   "nom": "L'Évidence",
+   "adresse": "233 Rue la Fayette, 75010 Paris",
+   "lat": 48.882185,
+   "lng": 2.367571,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "dim"
+     ],
+     "debut": "10:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "10:00",
+     "fin": "04:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "osm-node-7995193684",
+   "nom": "La Birreria",
+   "adresse": "41 Avenue Pierre Mendès France, 75013 Paris",
+   "lat": 48.838997,
+   "lng": 2.369398,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer"
+     ],
+     "debut": "11:30",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven"
+     ],
+     "debut": "11:30",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://www.labirreria.fr/menu",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Poretti, 50 cl. La carte indique « HH 5 € » sans préciser le format."
+  },
+  {
+   "id": "osm-node-12958809795",
+   "nom": "La Bougeotte",
+   "adresse": "27 Quai de l'Oise, Paris",
+   "lat": 48.891255,
+   "lng": 2.384961,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://peniche-labougeotte.com/wp-content/uploads/2026/04/Carte-a-Manger-Vins-au-verre-et-Autres-Boissons.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Brasserie La Bouledogue, 50 cl (péniche)."
+  },
+  {
+   "id": "osm-node-2940013085",
+   "nom": "La Cantine de Belleville",
+   "adresse": "108 Boulevard de Belleville, 75020 Paris",
+   "lat": 48.870811,
+   "lng": 2.378776,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "11:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "21:00",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://lacantinebelleville.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "« Happy hour de 16h à 21h : pinte de blonde 4 € ». Prix hors happy hour de la blonde la moins chère non lisible sur la carte."
+  },
+  {
+   "id": "src-la-cantine-de-menilmontant",
+   "nom": "La Cantine de Ménilmontant",
+   "adresse": "6 Rue des Maronites, 75020 Paris",
+   "lat": 48.867896,
+   "lng": 2.383218,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:30",
+     "fin": "19:30",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "« Pinte à 3"
+  },
+  {
+   "id": "osm-node-1927627184",
+   "nom": "La Cave Café",
+   "adresse": "134 Rue Marcadet, 75018 Paris",
+   "lat": 48.89127,
+   "lng": 2.339528,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "08:00",
+     "fin": "01:45"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "10:00",
+     "fin": "01:45"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [],
+   "source_url": "https://lacavecafe.wixsite.com/lacavecafe/menu",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Primus blonde export, pinte."
+  },
+  {
+   "id": "osm-node-1951465699",
+   "nom": "La Chope",
+   "adresse": "107 Rue Alexandre Dumas, 75020 Paris",
+   "lat": 48.855688,
+   "lng": 2.400487,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [],
+   "source_url": "https://www.lachopedu20eme.com/menus?location=La+Chope&menu=bi%25C3%25A8res--vins",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Les Parigots, pinte 50 cl."
+  },
+  {
+   "id": "osm-node-3501719715",
+   "nom": "La Galinette Cendrée",
+   "adresse": "80 Rue d'Hauteville, 75010 Paris",
+   "lat": 48.876153,
+   "lng": 2.351269,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer"
+     ],
+     "debut": "17:30",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:30",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://www.lagalinettecendree.fr/_files/ugd/1fedd4_1a46626cb03e48acb08661f11daab6e0.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Carte « demi / pinte » à 4,5 / 8 € pour la première pression (a priori la blonde). Happy hour « jusqu'à 20h » : −2 € sur les pintes."
+  },
+  {
+   "id": "osm-node-6001075065",
+   "nom": "La Jaja",
+   "adresse": "56 Rue d’Argout, Paris",
+   "lat": 48.866056,
+   "lng": 2.344019,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.5,
+   "happy_hours": [],
+   "source_url": "https://lajaja.fr/menu/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pilsner, pinte."
+  },
+  {
+   "id": "osm-node-6148498019",
+   "nom": "La Mutinerie",
+   "adresse": "176 Rue Saint-Martin, 75003 Paris",
+   "lat": 48.862528,
+   "lng": 2.352239,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "01:30"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "20:00",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://www.lamutinerie.eu/la-carte",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Savernoise, pinte. Happy hour 17h-20h (jours non précisés)."
+  },
+  {
+   "id": "osm-node-251699774",
+   "nom": "Le 10",
+   "adresse": "10 Rue de l'Odéon, 75006 Paris",
+   "lat": 48.851077,
+   "lng": 2.338569,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.8,
+   "happy_hours": [],
+   "source_url": "https://le10bar.com/carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Bière blonde du 10, 50 cl ; 5,50 € en happy hour (horaires non précisés sur la carte)."
+  },
+  {
+   "id": "osm-node-6070665686",
+   "nom": "Le Barbiche",
+   "adresse": "11 Rue Pierre Fontaine, 75009 Paris",
+   "lat": 48.881159,
+   "lng": 2.334377,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://www.lebarbiche.fr/_files/ugd/84f452_377b71d9ceb44dbd8553e8fa1b7fcd36.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pilsner blonde, pinte."
+  },
+  {
+   "id": "osm-node-10677649346",
+   "nom": "Le Barbiche La Réplique",
+   "adresse": "12 Rue Pierre Fontaine, 75009 Paris",
+   "lat": 48.881135,
+   "lng": 2.334669,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "jeu"
+     ],
+     "debut": "00:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://www.lebarbiche.fr/_files/ugd/84f452_377b71d9ceb44dbd8553e8fa1b7fcd36.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pilsner blonde, pinte."
+  },
+  {
+   "id": "osm-way-54740915",
+   "nom": "Le Biscornu",
+   "adresse": "1 Rue Paul Lelong, 75002 Paris",
+   "lat": 48.867711,
+   "lng": 2.343613,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 4.5
+    }
+   ],
+   "source_url": "http://www.lebiscornu.fr/notre-carte.html",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Happy hour tous les jours 17h-21h : Pelforth 50 cl à 4,50 € (blonde ou brune non précisé), Heineken 50 cl à 5 €."
+  },
+  {
+   "id": "osm-node-4622033591",
+   "nom": "Le CamCam Bar",
+   "adresse": "7 Rue du Faubourg Saint-Martin, 75010 Paris",
+   "lat": 48.869515,
+   "lng": 2.35566,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.0,
+   "happy_hours": [],
+   "source_url": "https://www.lecamcam-bar.fr/la-carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde « La Buchette », 50 cl."
+  },
+  {
+   "id": "osm-node-5602730924",
+   "nom": "Le Carlie",
+   "adresse": "177 Rue Saint-Martin, 75003 Paris",
+   "lat": 48.862696,
+   "lng": 2.352114,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "23:00",
+     "prix": 5.5
+    }
+   ],
+   "source_url": "https://www.lecarlie.fr/menus?location=Le+Carlie&menu=bi%25C3%25A8res",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Blonde pression ; le volume servi n'est pas précisé sur la carte."
+  },
+  {
+   "id": "osm-way-626367769",
+   "nom": "Le Choubichou Châtelet",
+   "adresse": "5 Rue Mondétour, 75001 Paris",
+   "lat": 48.862973,
+   "lng": 2.347957,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "06:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "02:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "https://www.choubichou.fr/_files/ugd/7e285b_d8613bf7629b4698bef0c7c9a4d5cead.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Bellevilloise en pinte de 46 cl (pas 50 cl). +2 € après 2h."
+  },
+  {
+   "id": "src-le-chateau-d-eau",
+   "nom": "Le Château d'Eau",
+   "adresse": "67 Rue du Château d'Eau, 75010 Paris",
+   "lat": 48.872719,
+   "lng": 2.354604,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-07-28",
+   "confiance": "incertain",
+   "note_prix": "Pinte de Météor (blonde). Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+  },
+  {
+   "id": "osm-node-3089653307",
+   "nom": "Le Comptoir Général",
+   "adresse": "80 Quai de Jemmapes, 75010 Paris",
+   "lat": 48.872398,
+   "lng": 2.365021,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "ven"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "14:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "11:00",
+     "fin": "01:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://lecomptoirgeneral.com/wp-content/uploads/2025/06/MENU-BAR-FR.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Licorne blonde, 50 cl (carte bar en ligne, fichier daté de juin 2025)."
+  },
+  {
+   "id": "osm-node-2387389298",
+   "nom": "Le Dude",
+   "adresse": "214 Rue Saint-Maur, 75010 Paris",
+   "lat": 48.873397,
+   "lng": 2.370741,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "18:00",
+     "fin": "01:45"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "21:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "Pinte de bière Dude (bière maison). Prix hors happy hour non précisé par la source."
+  },
+  {
+   "id": "src-le-gentilly",
+   "nom": "Le Gentilly",
+   "adresse": "97 Rue de l'Amiral Mouchez, 75013 Paris",
+   "lat": 48.819712,
+   "lng": 2.34458,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "Happy hour de 17h à 2h avec pintes à 3"
+  },
+  {
+   "id": "osm-node-14022643379",
+   "nom": "Le Gob",
+   "adresse": "58 Avenue des Gobelins, 75013 Paris",
+   "lat": 48.8336,
+   "lng": 2.353736,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "01:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [],
+   "source_url": "https://legob.fr/la-carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Bière du Gob (pression maison), pinte. 5,50 € en happy hour (horaires non précisés sur la carte)."
+  },
+  {
+   "id": "osm-node-534909894",
+   "nom": "Le Maximilien",
+   "adresse": "28 Boulevard Diderot, 75012 Paris",
+   "lat": 48.845875,
+   "lng": 2.375351,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "23:00",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://lemaximilien.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Stella Artois 50 cl ; happy hour 16h-23h : pinte de Stella à 4 €."
+  },
+  {
+   "id": "src-le-mirbel",
+   "nom": "Le Mirbel",
+   "adresse": "4 Rue de Mirbel, 75005 Paris",
+   "lat": 48.840813,
+   "lng": 2.352403,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "02:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "« La pinte de Kro pointe à 3 € » de 15h à 2h. Source de février 2025."
+  },
+  {
+   "id": "osm-node-9822502888",
+   "nom": "Le Multiplex",
+   "adresse": "27 rue de la Tour d'Auvergne, 75009 Paris",
+   "lat": 48.879191,
+   "lng": 2.343104,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "07:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "08:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "19:00",
+     "fin": "21:00",
+     "prix": 2.9
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "Happy hour de 19h à 21h avec la pinte à 2"
+  },
+  {
+   "id": "osm-node-676116669",
+   "nom": "Le Mélocoton",
+   "adresse": "12 rue Descartes, 75005 Paris",
+   "lat": 48.847081,
+   "lng": 2.348656,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "22:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "« La pinte de bière se négocie à 3 € » de 17h à 22h. Source de février 2025."
+  },
+  {
+   "id": "src-le-nouvel-institut",
+   "nom": "Le Nouvel Institut",
+   "adresse": "1 Boulevard Saint-Germain, 75005 Paris",
+   "lat": 48.849249,
+   "lng": 2.355594,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "02:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pinte à 3"
+  },
+  {
+   "id": "osm-node-5492875889",
+   "nom": "Le Nova",
+   "adresse": "82 avenue de Clichy, 75017 Paris",
+   "lat": 48.888443,
+   "lng": 2.324203,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 4.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "23:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "src-le-peche-mignon-13e",
+   "nom": "Le Péché Mignon (13e)",
+   "adresse": "123 Boulevard de l'Hôpital, 75013 Paris",
+   "lat": 48.835509,
+   "lng": 2.358842,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.9,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "src-le-peche-mignon-18e",
+   "nom": "Le Péché Mignon (18e)",
+   "adresse": "50 Avenue de Clichy, 75018 Paris",
+   "lat": 48.886518,
+   "lng": 2.326211,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.9,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "osm-node-4535571190",
+   "nom": "Le Smoke",
+   "adresse": "29 rue Delambre, 75014 Paris",
+   "lat": 48.841408,
+   "lng": 2.326569,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "12:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "14:30",
+     "fin": "19:30",
+     "prix": 4.0
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "19:30",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-07-28",
+   "confiance": "incertain",
+   "note_prix": "Pinte de Kronenbourg à 4 € en happy hour. Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+  },
+  {
+   "id": "osm-way-1312436612",
+   "nom": "Le Son de la Terre",
+   "adresse": "7 Quai de Montebello, 75005 Paris",
+   "lat": 48.851548,
+   "lng": 2.351119,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "22:30"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [],
+   "source_url": "https://www.sondelaterre.fr/food-drinks/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde East Paris (Paname), 50 cl."
+  },
+  {
+   "id": "osm-node-282490354",
+   "nom": "Le Syphax",
+   "adresse": "26 rue de Châteaudun, 75009 Paris",
+   "lat": 48.876136,
+   "lng": 2.337708,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "10:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam"
+     ],
+     "debut": "10:00",
+     "fin": "03:30"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "24:00",
+     "prix": 4.5
+    }
+   ],
+   "source_url": "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "Happy hour de 16h à minuit avec une pinte à 4"
+  },
+  {
+   "id": "osm-node-7308637587",
+   "nom": "Le Val-Royal",
+   "adresse": "93 boulevard de Port-Royal, 75013 Paris",
+   "lat": 48.838116,
+   "lng": 2.342183,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "07:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "02:00",
+     "prix": 3.8
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« La pinte est à 3"
+  },
+  {
+   "id": "osm-node-6061238486",
+   "nom": "Les Copains",
+   "adresse": "11 Rue de Paradis, 75010 Paris",
+   "lat": 48.874589,
+   "lng": 2.353997,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://lescopainsbar.fr/notre-carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« Bière artisanale 50 cl à la pression » : type de bière non précisé."
+  },
+  {
+   "id": "osm-node-6912695772",
+   "nom": "Les Grands Gamins",
+   "adresse": "19 Rue de Cléry, Paris",
+   "lat": 48.868022,
+   "lng": 2.346107,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "17:30",
+     "fin": "23:30"
+    },
+    {
+     "jours": [
+      "ven"
+     ],
+     "debut": "17:30",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "14:00",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "14:00",
+     "fin": "22:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://www.lesgrandsgaminsparis.fr/carte",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Lager bio, pinte."
+  },
+  {
+   "id": "osm-way-910134917",
+   "nom": "Les Maquereaux",
+   "adresse": "14 Quai de l'Hôtel de Ville, 75004 Paris",
+   "lat": 48.853406,
+   "lng": 2.356488,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mer",
+      "jeu"
+     ],
+     "debut": "16:00",
+     "fin": "23:00"
+    },
+    {
+     "jours": [
+      "ven"
+     ],
+     "debut": "16:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "12:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "21:00"
+    }
+   ],
+   "prix_pinte_normal": 10.0,
+   "happy_hours": [],
+   "source_url": "https://www.lesmaquereaux.com/les-maquereaux/menu",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Peroni, 50 cl."
+  },
+  {
+   "id": "osm-node-1486314083",
+   "nom": "Les Pipelettes du Boulevard",
+   "adresse": "9 Boulevard Poissonnière, 75002 Paris",
+   "lat": 48.870733,
+   "lng": 2.346492,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "10:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "24:00",
+     "prix": 6.0
+    }
+   ],
+   "source_url": "https://lespipelettesduboulevard.fr/doc/menu-jour.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Kanterbräu blonde en pinte de 47 cl (pas 50 cl)."
+  },
+  {
+   "id": "osm-node-1506480687",
+   "nom": "Liebe Bar",
+   "adresse": "46 rue du Faubourg Montmartre, 75009 Paris",
+   "lat": 48.874787,
+   "lng": 2.341482,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "00:00",
+     "fin": "05:00"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "06:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 4.5
+    }
+   ],
+   "source_url": "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "« Pinte à 4"
+  },
+  {
+   "id": "osm-node-10736482405",
+   "nom": "Léo Bistrot",
+   "adresse": "210 Rue Saint-Maur, 75010 Paris",
+   "lat": 48.873122,
+   "lng": 2.370961,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "07:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [],
+   "source_url": "https://leobistrotparis.fr/fr/services",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Saint-Omer (blonde), 50 cl."
+  },
+  {
+   "id": "src-mila",
+   "nom": "Mila",
+   "adresse": "16 Rue des Fossés Saint-Bernard, 75005 Paris",
+   "lat": 48.848647,
+   "lng": 2.354886,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 4.0,
+   "happy_hours": [],
+   "source_url": "https://www.sortiraparis.com/hotel-restaurant/bar-cafes/articles/350899-mila-le-bar-bon-plan-avec-cocktails-a-6-5-pintes-a-4-et-dj-set-au-coeur-de-paris",
+   "autres_sources": [],
+   "date_verification": "2026-09-16",
+   "confiance": "estime",
+   "note_prix": "« Comptez 4 € pour une pinte de blonde »."
+  },
+  {
+   "id": "osm-node-11068743914",
+   "nom": "Monsieur Le Zinc Pigalle",
+   "adresse": "46 Rue Jean-Baptiste Pigalle, 75009 Paris",
+   "lat": 48.880195,
+   "lng": 2.334802,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "jeu"
+     ],
+     "debut": "00:00",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "ven"
+     ],
+     "debut": "00:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "06:00",
+     "fin": "20:00",
+     "prix": 4.5
+    }
+   ],
+   "source_url": "https://www.monsieur-lezinc.com/_files/ugd/f246ba_df1418310fff46ef995fcbf7a07b0111.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Pinte de bière « Monsieur » (bière maison, type non précisé) ; happy hour « jusqu'à 20h »."
+  },
+  {
+   "id": "osm-node-7285896087",
+   "nom": "My Baar",
+   "adresse": "152 boulevard du Montparnasse, 75014 Paris",
+   "lat": 48.840263,
+   "lng": 2.33418,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "10:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "22:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "incertain",
+   "note_prix": "Pinte à 3,50 € en happy hour (Le Bonbon) ; horaires de happy hour 15h-22h d'après magazine-paris-berlin.com, qui annonce 3 €."
+  },
+  {
+   "id": "osm-node-2244578060",
+   "nom": "N'Importe Quoi",
+   "adresse": "16 Rue du Roule, 75001 Paris",
+   "lat": 48.860782,
+   "lng": 2.343885,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "05:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "20:00",
+     "prix": 5.5
+    }
+   ],
+   "source_url": "https://www.nimportequoi.fr/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Happy hour tous les jours 18h-20h : « pintes 5,5 € et 6 € » (type non précisé). Prix hors happy hour non précisé."
+  },
+  {
+   "id": "osm-node-9988531641",
+   "nom": "No Scrum No Win",
+   "adresse": "32 Rue de Londres, 75009 Paris",
+   "lat": 48.877643,
+   "lng": 2.327867,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu"
+     ],
+     "debut": "11:00",
+     "fin": "15:00"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "14:30",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "21:00",
+     "prix": 6.5
+    }
+   ],
+   "source_url": "https://clubhousensnw.com/carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« After Ruck », bière maison 4,7 % (type non précisé), 50 cl."
+  },
+  {
+   "id": "src-o-p-tit-paris",
+   "nom": "O P'tit Paris",
+   "adresse": "8 Cour des Petites Écuries, 75010 Paris",
+   "lat": 48.872571,
+   "lng": 2.35318,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "14:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "14:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "20:00",
+     "prix": 3.5
+    }
+   ],
+   "source_url": "https://www.magazine-paris-berlin.com/10-bars-ou-boire-une-biere-pas-chere-a-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-07-28",
+   "confiance": "incertain",
+   "note_prix": "Pinte de Kronenbourg en happy hour. Article publié en 2022 et mis à jour en 2026 : prix peut-être non revérifié."
+  },
+  {
+   "id": "osm-node-418076004",
+   "nom": "Oberkafé",
+   "adresse": "133 Rue Oberkampf, 75011 Paris",
+   "lat": 48.866409,
+   "lng": 2.380029,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "00:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "22:00",
+     "prix": 2.9
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "Source de février 2025 ; horaires de happy hour concordants avec OpenStreetMap. Prix hors happy hour non précisé."
+  },
+  {
+   "id": "osm-node-3276247068",
+   "nom": "Objectif Lune",
+   "adresse": "19 Rue de la Roquette, 75011 Paris",
+   "lat": 48.854596,
+   "lng": 2.371967,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "22:30",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "Prix hors happy hour non précisé par la source."
+  },
+  {
+   "id": "osm-node-1483017732",
+   "nom": "Quartier Lorette",
+   "adresse": "19 Rue de Châteaudun, 75009 Paris",
+   "lat": 48.875855,
+   "lng": 2.338838,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "07:30",
+     "fin": "01:00"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "01:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "20:30",
+     "prix": 6.5
+    }
+   ],
+   "source_url": "https://www.quartierlorette.com/menus-carte/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Klosterbräu 50 cl à 7 € (type non précisé) ; Dulion blonde bio 50 cl à 7,50 €, 6,50 € en happy hour."
+  },
+  {
+   "id": "src-rockstar-cafe",
+   "nom": "Rockstar Café",
+   "adresse": "46 Boulevard Voltaire, 75011 Paris",
+   "lat": 48.863319,
+   "lng": 2.370531,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "15:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "24:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "incertain",
+   "note_prix": "La source dit « bière à 3,50 € » sans préciser le volume (article sur les pintes à moins de 4 €)."
+  },
+  {
+   "id": "osm-way-618752756",
+   "nom": "Rosa Bonheur sur Seine",
+   "adresse": "37 Quai d'Orsay, 75007 Paris",
+   "lat": 48.863327,
+   "lng": 2.315517,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar"
+     ],
+     "debut": "18:00",
+     "fin": "24:00"
+    },
+    {
+     "jours": [
+      "mer"
+     ],
+     "debut": "18:00",
+     "fin": "00:30"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven"
+     ],
+     "debut": "18:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "12:00",
+     "fin": "01:30"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "00:30"
+    }
+   ],
+   "prix_pinte_normal": 9.0,
+   "happy_hours": [],
+   "source_url": "https://rosabonheur.fr/wp-content/uploads/2024/06/BARGE-ET-TERRASSE-2026.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Lager Saint-Omer, pinte 50 cl."
+  },
+  {
+   "id": "osm-node-10824060500",
+   "nom": "Rosa Bonheur à l'Est",
+   "adresse": "Avenue de Nogent, Paris",
+   "lat": 48.838407,
+   "lng": 2.45935,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "jeu"
+     ],
+     "debut": "17:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam"
+     ],
+     "debut": "12:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "21:00"
+    }
+   ],
+   "prix_pinte_normal": 8.5,
+   "happy_hours": [],
+   "source_url": "https://rosabonheur.fr/wp-content/uploads/2024/06/MENU-RBPJ-AVRIL-2026.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Saint-Omer, pinte 50 cl."
+  },
+  {
+   "id": "osm-node-6188270336",
+   "nom": "Solera",
+   "adresse": "283 Rue Saint-Jacques, 75005 Paris",
+   "lat": 48.840272,
+   "lng": 2.340697,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": 8.0,
+   "happy_hours": [],
+   "source_url": "https://soleraparis.wixsite.com/solera/menus",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "Goudale pression, pinte 50 cl (blonde de garde, pas une pils : seule bière pression de la carte)."
+  },
+  {
+   "id": "osm-node-3688065161",
+   "nom": "The 46 Bar",
+   "adresse": "46 Rue René Boulanger, 75010 Paris",
+   "lat": 48.868552,
+   "lng": 2.360365,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.5,
+   "happy_hours": [],
+   "source_url": "https://the46bar.com/wp-content/uploads/2026/03/the46bar-carte-clients.pdf",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde Pils, 50 cl. Happy hour à 5,50 €, horaires non précisés sur la carte."
+  },
+  {
+   "id": "osm-node-5098215159",
+   "nom": "The Copper Pub",
+   "adresse": "4 Impasse de la Gaîté, 75014 Paris",
+   "lat": 48.840436,
+   "lng": 2.32466,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "16:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "11:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.5,
+   "happy_hours": [],
+   "source_url": "https://thecopperpub.com/menu/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Copper Beer blonde, 50 cl ; 6 € en happy hour « tous les jours » (horaires non précisés)."
+  },
+  {
+   "id": "osm-node-2893835124",
+   "nom": "The Green Goose",
+   "adresse": "19 Rue des Boulets, 75011 Paris",
+   "lat": 48.850336,
+   "lng": 2.390566,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "12:00",
+     "fin": "14:30"
+    },
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "18:00",
+     "fin": "20:00",
+     "prix": 5.0
+    }
+   ],
+   "source_url": "http://www.thegreengoose.fr/green-goose-menu",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Green Goose Lager (blonde maison), 50 cl. Happy hour hors jours fériés."
+  },
+  {
+   "id": "src-the-hideout-mouffetard",
+   "nom": "The Hideout Mouffetard",
+   "adresse": "22 Rue du Pot de Fer, 75005 Paris",
+   "lat": 48.842923,
+   "lng": 2.348343,
+   "horaires_ouverture": null,
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "22:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "Pinte de Saint-Omer (blonde) à 3 € de 16h à 22h. Source de février 2025."
+  },
+  {
+   "id": "osm-node-4820458124",
+   "nom": "The Irishman",
+   "adresse": "40 Boulevard Arago, 75013 Paris",
+   "lat": 48.835213,
+   "lng": 2.345982,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer"
+     ],
+     "debut": "15:30",
+     "fin": "00:30"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "15:30",
+     "fin": "02:00"
+    },
+    {
+     "jours": [
+      "dim"
+     ],
+     "debut": "12:00",
+     "fin": "00:30"
+    }
+   ],
+   "prix_pinte_normal": 5.5,
+   "happy_hours": [],
+   "source_url": "https://irishman.paris/",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Irish Gold (bière maison, lager légère), pinte."
+  },
+  {
+   "id": "osm-node-13714513708",
+   "nom": "The Kop Bar",
+   "adresse": "123 Boulevard Ney, 75018 Paris",
+   "lat": 48.897526,
+   "lng": 2.333269,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "08:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 5.5,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "16:00",
+     "fin": "21:00",
+     "prix": 4.5
+    }
+   ],
+   "source_url": "https://kopbarparis.com/bieres-kop-bar.html",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Blonde lager maison, 50 cl ; happy hour 16h-21h : −1 € sur les 50 cl."
+  },
+  {
+   "id": "osm-node-8243533268",
+   "nom": "The Labo",
+   "adresse": "37 Rue des Lombards, 75001 Paris",
+   "lat": 48.859728,
+   "lng": 2.347673,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mar",
+      "mer",
+      "sam",
+      "dim"
+     ],
+     "debut": "15:00",
+     "fin": "03:00"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven"
+     ],
+     "debut": "15:00",
+     "fin": "06:00"
+    }
+   ],
+   "prix_pinte_normal": null,
+   "happy_hours": [
+    {
+     "jours": [
+      "mar"
+     ],
+     "debut": "15:00",
+     "fin": "03:00",
+     "prix": 4.8
+    }
+   ],
+   "source_url": "https://thelabo.fr",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "estime",
+   "note_prix": "« Happy non stop » : bière pression 50 cl à 4,80 € de 15h à 3h, annoncé les mardis. Prix hors de cette soirée non précisé."
+  },
+  {
+   "id": "osm-node-9937387117",
+   "nom": "The Pub",
+   "adresse": "4 rue Caron, Paris",
+   "lat": 48.855059,
+   "lng": 2.362697,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "mer",
+      "jeu",
+      "ven"
+     ],
+     "debut": "17:30",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "sam",
+      "dim"
+     ],
+     "debut": "14:00",
+     "fin": "01:00"
+    }
+   ],
+   "prix_pinte_normal": 6.5,
+   "happy_hours": [],
+   "source_url": "https://www.thepubparis.com/menu",
+   "autres_sources": [],
+   "date_verification": "2026-10-04",
+   "confiance": "verifie",
+   "note_prix": "Pub Blonde 5 %, 50 cl."
+  },
+  {
+   "id": "osm-node-707856537",
+   "nom": "Tribal Café",
+   "adresse": "3 Cour des Petites Écuries, Paris",
+   "lat": 48.872304,
+   "lng": 2.353512,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "13:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 4.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "21:00",
+     "prix": 3.0
+    }
+   ],
+   "source_url": "https://www.10h26.com/top-bars-paris-biere-pas-chere-glou-glou",
+   "autres_sources": [],
+   "date_verification": "2025-02-27",
+   "confiance": "incertain",
+   "note_prix": "Source de février 2025."
+  },
+  {
+   "id": "osm-node-8140200742",
+   "nom": "WorkshoW",
+   "adresse": "173 rue Saint-Martin, 75003 Paris",
+   "lat": 48.862587,
+   "lng": 2.35198,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "17:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 3.5,
+   "happy_hours": [],
+   "source_url": "https://www.lebonbon.fr/paris/les-tops-food-et-drink/top-lieux-boire-pintes-pas-cheres-paris/",
+   "autres_sources": [],
+   "date_verification": "2026-05-22",
+   "confiance": "estime",
+   "note_prix": "« Pintes à 3"
+  },
+  {
+   "id": "osm-node-6393493952",
+   "nom": "Ô Lieu De",
+   "adresse": "6 Rue Jean-Pierre Timbaud, 75011 Paris",
+   "lat": 48.864912,
+   "lng": 2.367077,
+   "horaires_ouverture": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer"
+     ],
+     "debut": "18:00",
+     "fin": "00:00"
+    },
+    {
+     "jours": [
+      "jeu",
+      "ven",
+      "sam"
+     ],
+     "debut": "18:00",
+     "fin": "02:00"
+    }
+   ],
+   "prix_pinte_normal": 7.0,
+   "happy_hours": [
+    {
+     "jours": [
+      "lun",
+      "mar",
+      "mer",
+      "jeu",
+      "ven",
+      "sam",
+      "dim"
+     ],
+     "debut": "18:00",
+     "fin": "20:00",
+     "prix": 4.0
+    }
+   ],
+   "source_url": "https://www.olieude.net/menus",
+   "autres_sources": [
+    "https://www.pariszigzag.fr/bar-restaurant/bar/happy-hours-paris/"
+   ],
+   "date_verification": "2026-05-07",
+   "confiance": "estime",
+   "note_prix": "« 8 pressions à partir de 7 € la pinte » (site du bar). Happy hour à 4 € selon Paris Zigzag."
+  }
+ ]
+}

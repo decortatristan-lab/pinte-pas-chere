@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Pinte pas chère</title>
+  <meta name="description" content="Les 3 bars les plus proches où la pinte de blonde coûte 4 € ou moins, happy hours comprises.">
+  <meta name="theme-color" content="#f4a62a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍺</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <header class="entete">
+      <h1>Pinte pas chère</h1>
+      <p class="accroche">Les 3 bars les plus proches où la pinte de blonde est à <strong>4&nbsp;€ max</strong>, maintenant.</p>
+    </header>
+
+    <!-- Bandeau affiché seulement si le jeu de données est fictif -->
+    <p id="bandeau-fictif" class="bandeau-fictif" hidden>
+      Données de test <strong>FICTIVES</strong> : ces bars n'existent pas.
+    </p>
+
+    <!-- Les deux façons de donner sa position -->
+    <section class="recherche" aria-label="Votre position">
+      <button id="btn-localiser" class="btn-principal" type="button">
+        <span aria-hidden="true">📍</span> Me localiser
+      </button>
+
+      <div class="separateur"><span>ou</span></div>
+
+      <form id="form-adresse" class="form-adresse" autocomplete="off">
+        <label for="champ-adresse" class="visuellement-cache">Saisir une adresse ou une station de métro</label>
+        <input id="champ-adresse" name="adresse" type="search" inputmode="search" list="liste-stations"
+               placeholder="Adresse ou station de métro" enterkeyhint="search">
+        <datalist id="liste-stations"></datalist>
+        <button type="submit" class="btn-secondaire">Chercher</button>
+      </form>
+    </section>
+
+    <!-- Messages d'état (chargement, erreurs) -->
+    <p id="message" class="message" role="status" aria-live="polite" hidden></p>
+
+    <!-- Résultats -->
+    <section id="resultats" class="resultats" aria-live="polite" hidden>
+      <p id="contexte" class="contexte"></p>
+      <ol id="liste-bars" class="liste-bars"></ol>
+      <div id="aucun-resultat" hidden>
+        <p class="vide">Aucun bar ouvert à 4&nbsp;€ ou moins trouvé autour de vous en ce moment.</p>
+      </div>
+      <div id="bloc-bientot" hidden>
+        <h2 class="titre-section">Bientôt en happy hour</h2>
+        <ul id="liste-bientot" class="liste-bientot"></ul>
+      </div>
+      <button id="btn-plus-chers" class="btn-secondaire btn-large" type="button" hidden>
+        Voir les moins chers même au-dessus de 4&nbsp;€
+      </button>
+      <div id="bloc-plus-chers" hidden>
+        <h2 class="titre-section">Les moins chers autour de vous</h2>
+        <p class="aide">Parmi les 10 bars ouverts les plus proches, triés par prix.</p>
+        <ol id="liste-plus-chers" class="liste-bars"></ol>
+      </div>
+    </section>
+
+    <footer class="pied">
+      <p class="avertissement">Prix indicatifs, susceptibles d'avoir changé.</p>
+      <p id="info-donnees" class="info-donnees"></p>
+      <p class="credits">
+        Bars : © contributeurs <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> (ODbL).
+        Adresses : <a href="https://adresse.data.gouv.fr">adresse.data.gouv.fr</a>.
+      </p>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
