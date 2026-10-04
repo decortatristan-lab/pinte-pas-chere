@@ -6,6 +6,18 @@ Les données couvrent **tout Paris** (20 arrondissements).
 
 **Prix retenu** : pour chaque bar, la pinte (50 cl) de pils ou blonde pression **la moins chère** de la carte. IPA, blanches, ambrées et bières belges sont ignorées.
 
+**En ligne : https://decortatristan-lab.github.io/pinte-pas-chere/** (GitHub Pages)
+
+## Mettre à jour le site en ligne
+
+Après une modification (nouveaux prix dans `prix_sources.csv` puis `python3 scripts/3_build.py`, par exemple) :
+
+```bash
+git add -A && git commit -m "Mise à jour des prix" && git push
+```
+
+GitHub Pages republie le site en une minute environ.
+
 ## Lancer le site en local
 
 ```bash
